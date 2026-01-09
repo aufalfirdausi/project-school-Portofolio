@@ -58,15 +58,14 @@ ul a:hover{
 }
 
 #Home img {
-    height: 50%;
-    width: 30%;
+    width: 500px;
     border-radius: 50%;
     margin-top: 20px;
     border: solid 4px black;
 }
 
 #Home img:hover {
-    border: grey 15px solid;
+    border: skyblue 15px solid;
     transition: 0.3s ease-in;
 }
 
